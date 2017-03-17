@@ -1,2 +1,2 @@
 # hello-world
-First rep on git
+Hi humans.
